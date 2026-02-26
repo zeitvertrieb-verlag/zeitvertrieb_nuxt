@@ -1,156 +1,891 @@
 {
   "orchestral-large-ensemble": [
-    {"title": "für Orchester", "year": "2021", "id": "fur-orchester-2021", "instrumentation": "3Fl (3. auch Bass), 2Englischhörner, 3Kl in B (3. auch Bass), 2Fg, 3Hrn, 2Tr, 2Tromb, 1Tb, Harfe, 4Perk, Vl 1+2, Va, Vc, Kb", "dedication": "", "description": "ca. 40'"},
-    {"title": "für Orgel und großes Orchester", "year": "2020", "id": "fur-orgel-grosses-orchester-2020", "instrumentation": "The orchestra is split into three groups around the audience. 4Fl (+picc, bass), 4Ob, 4Kl in Bb (2x bass), 4Fg(+contra), 6Hr, 3Trp, 3Trb, 1Tb, 4perc, 1Harfe, 12Vl1, 10Vl2, 10Va, 8Vc, 6Kb (Fünfsaiter)", "dedication": "", "description": "51'"},
-    {"title": "für Orchester", "year": "2020", "id": "fur-orchester-2020", "instrumentation": "fl (always piccolo), ob, 2clar in Bb, bas, hr, trp in Bb, 2trb, 2perc (1: crot, vibraph; 2: glockenspiel, tamtam (large)), timp (D+F), keyboard (piano, celesta), accordion, 6vl1, 5vl2, 4va, 3vc, 2db", "dedication": "", "description": "13'"},
-    {"title": "für Chor und Orchester", "year": "2020", "id": "fur-chor-und-orchester-2020", "instrumentation": "sopr solo (optional), choir (SATB), 3trb, organ, 3vl1, 3vl2, 2va, 2vc, 1db", "dedication": "", "description": "13'"},
-    {"title": "für Orgel und Orchester (Fassung 2019)", "year": "2019", "id": "fur-orgel-orchester-fassung-2019", "instrumentation": "Besetzung in zwei Gruppen L und R - L: fl (picc, grande), ob, clar (in b, basso), bas, hr, trp, trb, perc (2), vl 1-3 (4+4+4), vc 1-3 (3+3+3), db 1 (3) - R: fl (picc, grande, bass), ob, clar in Bb, bas, hr, trp, trb, perc (2), vl 4-6 (4+4+4), va 1-3 (3+3+3), db 2 (3)", "dedication": "", "description": "22'"},
-    {"title": "the ocean of Yes and no", "year": "2008", "id": "ocean-yes-no", "instrumentation": "fl, klar, ob, bas, trp, hr, trb, tb, klav, 2perc, 2vl, vla, vcl, kb 20'", "dedication": "", "description": ""},
-    {"title": "the book of serenity", "year": "2008", "id": "book-of-serenity", "instrumentation": "klar, ob, fl, trp, hr, pos, klav, 2perc, 2vl, 2vla, 2vcl, kb 25'", "dedication": "", "description": ""},
-    {"title": "kommander kobayashi am ende", "year": "2007", "id": "kommander-kobayashi", "instrumentation": "short opera - sopr, alt, ten, bass - choir - vla, vcl, cb, clar, hr, org, 1perc - 45'", "dedication": "", "description": ""},
-    {"title": "architektur des regens", "year": "2007", "id": "architektur-des-regens", "instrumentation": "opera - 2 Sopr, choir (3 basses) - 1 dancer - fl, perc, 3 vla, 2 vcl, cb (80')", "dedication": "", "description": ""},
-    {"title": "der rote spiegel", "year": "2005", "id": "der-rote-spiegel", "instrumentation": "Youth Orchestra + Choir: 10 rec, 2trp, 3trb, 4perc, choire (sopran, alt), org(positiv), vl (min 9), vcl (min 3), cb (min 2) - 70'", "dedication": "", "description": ""},
-    {"title": "fichten", "year": "2003/04", "id": "fichten", "instrumentation": "für großes Orchester, 60' - Gruppe A: fl, clar, sax, hr, Wagnertuba B, trb, mezzo soprano, perc, 3vl1, 3vl2, 3vla, 3vc, 2db - Gruppe B: fl, clar, bas, hr, Wagnertuba B, trb, mezzo soprano, perc, 3vl1, 3vl2, 3vla, 3vc, 2db - Gruppe C/D wie A/B", "dedication": "", "description": ""},
-    {"title": "space cookies, bellin deer and love", "year": "2002", "id": "space-cookies", "instrumentation": "für violine und ensemble - 16' (vl solo, fl, clar, ob, bas, hr, trb, 2 perc, 2vl, vla, vcl, db)", "dedication": "", "description": ""},
-    {"title": "mons floris. (zwei etagen. keine treppe.)", "year": "2002", "id": "mons-floris", "instrumentation": "Musiktheater, 50' - sopr, harpsichord, 9vl, 5vla, 3vc, 2db", "dedication": "", "description": ""},
-    {"title": "die perser", "year": "2002", "id": "die-perser", "instrumentation": "Musiktheater nach Aischylos, 90' - 4soloists (sopr, alto, ten, bass), choir (6male voices, 12female voices) - 3fl, 3clar, 3ob, 3bas, 5hr, 3tr, 3trb, 1tuba, 3perc, 2keyb instr (pno, cel, org), harp, vl1-23, vla1-7, vc1-7, db1-4", "dedication": "", "description": ""},
-    {"title": "regen. katzen", "year": "2001", "id": "regen-katzen", "instrumentation": "für Piccoloflöte solo und Ensemble, 45' - picc fl; fl, clar, sax, ob, bas, hr, trb, 2perc, 1keyb (pno, positiv organ), 2vl, 2vla, 2vc, 2db", "dedication": "", "description": ""},
-    {"title": "königin ök", "year": "1999/2000", "id": "konigin-ok", "instrumentation": "opera, 74'", "dedication": "", "description": ""},
-    {"title": "missa beati pauperes spiritu", "year": "2005", "id": "missa-beati-pauperes", "instrumentation": "Cantor, 2 trb, sopr 1-3, 1perc, vla 1-4, vcl 1 1-2-4, cb, 60' - or with live-electronic: Cantor, trb, sopr, 1perc, vla, vcl, cb, 60'", "dedication": "", "description": ""}
+    {
+      "title": "für Orchester",
+      "year": "2021",
+      "id": "fur-orchester-2021",
+      "instrumentation": "Flute , English Horn, Clarinet in B , Bassoon, Horn, Trumpet, Trombone, Tuba, Harp, Percussion, Violin , Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Orgel und großes Orchester",
+      "year": "2020",
+      "id": "fur-orgel-grosses-orchester-2020",
+      "instrumentation": "The orchestra is split into three groups around the audience. Flute , Oboe, Clarinet in Bb , Bassoon, Horn, Trumpet, Trombone, Tuba, Percussion, Harp, Violin, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Orchester",
+      "year": "2020",
+      "id": "fur-orchester-2020",
+      "instrumentation": "Flute , Oboe, Clarinet in Bb, Bassoon, Horn, Trumpet in Bb, Trombone, Percussion ), Timpani , Keyboard , Accordion, Violin, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Chor und Orchester",
+      "year": "2020",
+      "id": "fur-chor-und-orchester-2020",
+      "instrumentation": "Soprano solo , Choir , Trombone, Organ, Violin, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Orgel und Orchester (Fassung 2019)",
+      "year": "2019",
+      "id": "fur-orgel-orchester-fassung-2019",
+      "instrumentation": "Besetzung in zwei Gruppen L und R L Flute , Oboe, clarinet , Bassoon, Horn, Trumpet, Trombone, percussion , Violin , Cello , Double bass R Flute , Oboe, clarinet in Bb, Bassoon, Horn, Trumpet, Trombone, percussion , Violin , Viola , Double bass"
+    },
+    {
+      "title": "the ocean of Yes and no",
+      "year": "2008",
+      "id": "ocean-yes-no",
+      "instrumentation": "Flute, Clarinet, Oboe, Bassoon, Trumpet, Horn, Trombone, Tuba, Piano, Percussion, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "the book of serenity",
+      "year": "2008",
+      "id": "book-of-serenity",
+      "instrumentation": "Clarinet, Oboe, Flute, Trumpet, Horn, Trombone, Piano, Percussion, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "kommander kobayashi am ende",
+      "year": "2007",
+      "id": "kommander-kobayashi",
+      "instrumentation": "short opera Soprano, Alto, Tenor, Bass Choir Viola, Cello, Double bass, clarinet, Horn, Organ, Percussion"
+    },
+    {
+      "title": "architektur des regens",
+      "year": "2007",
+      "id": "architektur-des-regens",
+      "instrumentation": "opera Soprano, Choir dancer Flute, percussion, Viola, Cello, Double bass"
+    },
+    {
+      "title": "der rote spiegel",
+      "year": "2005",
+      "id": "der-rote-spiegel",
+      "instrumentation": "Youth Orchestra Choir recorder, Trumpet, Trombone, Percussion, choire , Organ, Violin , Cello , Double bass"
+    },
+    {
+      "title": "fichten",
+      "year": "2003/04",
+      "id": "fichten",
+      "instrumentation": "für grosses Orchester, Gruppe A Flute, clarinet, Saxophone, Horn, Wagner Tuba B, Trombone, mezzo Soprano, percussion, Violin, Violin, Viola, Cello, Double bass Gruppe B Flute, clarinet, Bassoon, Horn, Wagner Tuba B, Trombone, mezzo Soprano, percussion, Violin, Violin, Viola, Cello, Double bass Gruppe C/D wie A/B"
+    },
+    {
+      "title": "space cookies, bellin deer and love",
+      "year": "2002",
+      "id": "space-cookies",
+      "instrumentation": "für violine und ensemble"
+    },
+    {
+      "title": "mons floris. (zwei etagen. keine treppe.)",
+      "year": "2002",
+      "id": "mons-floris",
+      "instrumentation": "Musiktheater, Soprano, Harpsichord, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "die perser",
+      "year": "2002",
+      "id": "die-perser",
+      "instrumentation": "Musiktheater nach Aischylos, soloists , Choir fl, Clarinet, ob, Bassoon, Horn, tr, Trombone, Tuba, Percussion, Keyboard instr , Harp, Violin , Viola , Cello , Double bass"
+    },
+    {
+      "title": "regen. katzen",
+      "year": "2001",
+      "id": "regen-katzen",
+      "instrumentation": "für Piccolo solo und Ensemble, piccolo Flute; Flute, clarinet, Saxophone, Oboe, Bassoon, Horn, Trombone, Percussion, Keyboard , Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "königin ök",
+      "year": "1999/2000",
+      "id": "konigin-ok",
+      "instrumentation": "opera"
+    },
+    {
+      "title": "missa beati pauperes spiritu",
+      "year": "2005",
+      "id": "missa-beati-pauperes",
+      "instrumentation": "Cantor, Trombone, Soprano , Percussion, Viola , Cello , Double bass, or with live electronic Cantor, Trombone, Soprano, Percussion, Viola, Cello, Double bass"
+    }
   ],
   "ensemble": [
-    {"title": "für 4 E-Gitarren", "year": "2021", "id": "fur-4-e-gitarren", "instrumentation": "4 E-Gitarren", "dedication": "", "description": ""},
-    {"title": "für 1/6-tone-harmonium und ensemble", "year": "2021", "id": "fur-1-6-tone-harmonium", "instrumentation": "fl (picc, grande, bass), clar (Eb, Bb, bass), sax (sop, ten, bar), trp in Bb (cup mute), trb (tenor+alto; cup mute), vl, va, vc, db", "dedication": "", "description": "16'"},
-    {"title": "für Orchester", "year": "2020/21", "id": "fur-orchester-2020-21", "instrumentation": "trp, pos, 2perc, git, klav, vc", "dedication": "", "description": "ca. 45'"},
-    {"title": "I.dreamland", "year": "2020", "id": "i-dreamland", "instrumentation": "fl, acc, vc, pno, harm", "dedication": "", "description": "22'"},
-    {"title": "Kinderoper", "year": "2020", "id": "kinderoper", "instrumentation": "keine Gesangstimmen - 2Fl, 2Pos, 1Perc, 2Vl, 1Va, 1Vc, 1Kb", "dedication": "", "description": "50'"},
-    {"title": "für Orgel und großes Ensemble", "year": "2018", "id": "fur-orgel-grosses-ensemble", "instrumentation": "die Instrumentation ist variabel", "dedication": "", "description": "50'"},
-    {"title": "für Blechbläserquintett und Harmonium", "year": "2018", "id": "blechblaserquintett-harmonium", "instrumentation": "2Trompeten, Horn, Posaune, Tuba, Harmonium", "dedication": "", "description": "50'"},
-    {"title": "Oper (Tutor)", "year": "2018", "id": "oper-tutor", "instrumentation": "Der Hochzeiter – Tiefer Bass, Der Fremde – Sopran (Countertenor), Das Volk – Vokalensemble (6Soprane, 6 Alt), Der Hochzeiter – Schauspieler, Der Fremde – Schauspielerin, fl, clar, sax, hr, trp, trb, perc 1-3, pno, acc, vl 1-4, va 1+2, vc 1+2, db, Tonbandzuspielung", "dedication": "", "description": "70'"},
-    {"title": "für Violine, Viola, Violoncello und Klavier", "year": "2017", "id": "vl-va-vc-klavier", "instrumentation": "vl, va, vc, pno", "dedication": "", "description": "64'"},
-    {"title": "für Saxophon, E-Gitarre, Schlagzeug und Klavier", "year": "2017", "id": "sax-e-git-schlag-klavier", "instrumentation": "Sax, E-Git, Schlagzeug, Klavier - lange Version: ca. 60', kurze Version: ca. 24'", "dedication": "", "description": ""},
-    {"title": "Version 2 für 2 Klaviere, 2 Schlagzeuger und Harmonium", "year": "2017", "id": "2-klaviere-2-schlagzeug-harmonium", "instrumentation": "2 Klaviere, 2 Schlagzeuger, Harmonium, perc 1: vibraphone, glockenspiel, small triangle, 1timpano (F), perc 2: campana (c-f2), crotales, small triangle, gran cassa", "dedication": "", "description": "35'"},
-    {"title": "für Flöte, Horn, Posaune und Harmonium", "year": "2016", "id": "fl-horn-pos-harm", "instrumentation": "Flöte (picc, bass, Triangel), Horn in F, Posaune (kleiner Triangel), Harmonium oder Akkordeon (kleiner Triangel), Perkussion (Tamtam, Campana), Violine, Viola, Violoncello", "dedication": "", "description": "20'"},
-    {"title": "Eine Klangraumkomposition mit partiellen Übermalungen von G.P. Palestrinas", "year": "2015", "id": "klangraum-palestrina", "instrumentation": "Vokalensemble (SSATB), 6perc", "dedication": "", "description": "60'"},
-    {"title": "für Flöte, Oboe, Klarinette, Horn, Trompete, Euphonium und Ensemble", "year": "2015", "id": "fl-ob-clar-hr-trp-euphonium", "instrumentation": "Fl (+bass), ob (+english horn), clar (+bass), bas, hr, trp (in Bb, in d; the trumpet in d is to be tuned between 30 and 50 cents lower: A = ca. 428Hz), trb, euphonium, piano, harmonium, perc (glockenspiel, campana f-f2), vl1, vl2, va, vc, cb (5 strings)", "dedication": "", "description": "28'"},
-    {"title": "für Zither und Streichquintett", "year": "2015", "id": "zither-streichquintett", "instrumentation": "Zither, Streichquintett", "dedication": "", "description": "15'"},
-    {"title": "Magnificat für 2 Soprane, Chor und Ensemble", "year": "2015", "id": "magnificat-2-soprane-chor", "instrumentation": "Chor: Sopran 1+2, Alt, Tenor, Baß - Flöte (Piccolo, Große Flöte, Baßflöte), Klarinette in B, 2 Trompeten in B, 2 Posaunen - Percussion (Marimbaphon, Crotales, Röhrenglocken, Gongs, Timpani) - Harmonium (Orgel)", "dedication": "", "description": "32'"},
-    {"title": "für viola d'amore, harmonium und großes orchester", "year": "2015", "id": "viola-damore-harmonium-orchester", "instrumentation": "3fl(picc, grande, alto, bass), 3ob (+english hr), 3clar in Bb (+bass), 3bas (+contra), 4hr, 3trp in Bb, 3trb, tb, piano, harp, 4perc, 24vl, 8va, 8vc, 6cb (5 strings)", "dedication": "", "description": "ca. 50'"},
-    {"title": "for large orchestra", "year": "2014", "id": "large-orchestra-2014", "instrumentation": "3fl, 3ob, 3clar (+Bclar), 3bas (+Kbas), 4hr, 3trp, 3trb, tb, 3perc, 22vl, 10va, 8vc, 6db", "dedication": "", "description": "23'"},
-    {"title": "viola d'amore, harmonium", "year": "2014", "id": "viola-damore-harmonium-2014", "instrumentation": "viola d'amore, harmonium", "dedication": "", "description": "55'"},
-    {"title": "für Streichquartett und Klavier", "year": "2014", "id": "streichquartett-klavier", "instrumentation": "Streichquartett, Klavier", "dedication": "", "description": "17'"},
-    {"title": "für Flöte, Percussion, Keys, Viola und Chor", "year": "2014", "id": "fl-perc-keys-va-chor", "instrumentation": "fl, perc, keys, va, Chor (2S, 2A, 2T, 2B)", "dedication": "", "description": "42'"},
-    {"title": "Solo1 – Sopran, Solo2 – Bass, Vokalensemble", "year": "2013", "id": "sopran-bass-vokalensemble", "instrumentation": "Solo1 – Sopran, Solo2 – Bass, Vokalensemble (S, A, T, B), BFl, Bariton-Ob (oder Fagott), B-Kl, Trp, Flhr, Pos, Tb, Perc 1+2, Klavier, Harmonium", "dedication": "", "description": "60'"},
-    {"title": "für Saxophon, Klarinette und Streicher", "year": "2013", "id": "sax-clar-strings", "instrumentation": "8sop, 3clar (clar3: bkl), 3vl, va, vc, cb, pno, harm", "dedication": "", "description": "8'"},
-    {"title": "für 3 Orchestergruppen", "year": "1", "id": "3-orchestergruppen", "instrumentation": "Gruppe links: 1Fl, 1Ob, 1Kl, 1Fg, 1Hrn, 1Tr, 1Pos, 9Vl, 3Va, 3Vc, 2Kb, 2Perk, Harfe - Gruppe Mitte: 1Fl (+BFl), 1Ob, 1Kl, 1Fg, 1Hrn, 1Tr, 1Pos, 9Vl, 3Va, 3Vc, 2Kb, Perk, Harfe - Gruppe rechts: 1Fl (+Picc), 1Ob, 1Kl (+BKl), 1Fg, 1Hrn, 1Tr, 1Pos, 9Vl, 3Va, 3Vc, 2Kb, Perk, Klavier", "dedication": "", "description": "17'"},
-    {"title": "für großes Orchester", "year": "2011", "id": "grosses-orchester-2011", "instrumentation": "Das Orchester sitzt in drei Gruppen geteilt auf der Bühne: Rechts. Mitte. Links. - 3Fl (1. picc, 2. bass), 3Ob, 3Kl (1. bass), 3Fg (3. kontra), 3Hrn, 3Trp, 3Pos, 4Schlagzeuger, Harfe, Klavier, 27Vl, 9Va, 9Vc, 6Kb", "dedication": "", "description": "47'"},
-    {"title": "the whitebearded man. the six frogs", "year": "2008", "id": "whitebearded-man-six-frogs", "instrumentation": "pno, perc 12'", "dedication": "", "description": ""},
-    {"title": "der weißbärtige mann. der frosch am mond", "year": "2008", "id": "weissbartiger-mann-frosch-mond", "instrumentation": "2 accord 10' OR 2 hammondorg 10'", "dedication": "", "description": ""},
-    {"title": "die drei dirndln", "year": "2007", "id": "drei-dirndln", "instrumentation": "(vl, clar, klav) 9'", "dedication": "", "description": ""},
-    {"title": "die drei goldenen schatten", "year": "2007", "id": "drei-goldenen-schatten", "instrumentation": "fl, clar, 2perc, hrp, git, pno, vl, vla, vcl, cb 20'", "dedication": "", "description": ""},
-    {"title": "drei goldene tiger", "year": "2007", "id": "drei-goldene-tiger", "instrumentation": "(2vl, vla, vcl, klav) 18'", "dedication": "", "description": ""},
-    {"title": "drei goldene gesichter", "year": "2007", "id": "drei-goldene-gesichter", "instrumentation": "(2vl, vla, vcl, klav) 18'", "dedication": "", "description": ""},
-    {"title": "geschrieben in wasser", "year": "2007", "id": "geschrieben-in-wasser", "instrumentation": "(vl, vla, vcl, klav) 10'", "dedication": "", "description": ""},
-    {"title": "dangerous foxes are illusions", "year": "2006", "id": "dangerous-foxes", "instrumentation": "(vl, vcl, klav)OR(vl, clar, klav) 9'", "dedication": "", "description": ""},
-    {"title": "the moon in a moonless sky", "year": "2005", "id": "moon-moonless-sky", "instrumentation": "4 perc, 15'", "dedication": "", "description": ""},
-    {"title": "die englischen hände. zwei", "year": "2004", "id": "englischen-hande-zwei", "instrumentation": "picc, sax, clar, hr, trb, 1perc, pno, sopr, vl1, vl2, vla, vc, db - 40'", "dedication": "", "description": ""},
-    {"title": "die englischen hände", "year": "2004", "id": "englischen-hande", "instrumentation": "picc, sax, clar, hr, tr, trb, 1perc, pno, vl1, vl2, vla, vc, db - 40'", "dedication": "", "description": ""},
-    {"title": "sei jaku", "year": "2001", "id": "sei-jaku", "instrumentation": "Streichquartett - 2vl, vla, vc, 40'", "dedication": "", "description": ""},
-    {"title": "the queen. the cowboy", "year": "2001", "id": "queen-cowboy", "instrumentation": "für Violoncello solo und Kammerorchester, 20' - vc solo, vl a, b, c; 2fl, clar, bassclar, bas, hr, trb, 2perc, vl1-5, vla1-3, vc1-2, 1db", "dedication": "", "description": ""},
-    {"title": "der weiße pfirsich und der lallende Quell", "year": "2001", "id": "weisser-pfirsich", "instrumentation": "für ensemble - 23' (fl, clar, female voice, (positive)organ, 4 perc, vla, vcl, db)", "dedication": "", "description": ""},
-    {"title": "kirschblüten. ohr", "year": "2001", "id": "kirschbluten-ohr", "instrumentation": "Musiktheater für 4 Schlagzeuger - (Raum/Space: Claudia Doderer) - 4perc, ca. 30'", "dedication": "", "description": ""},
-    {"title": "der handschuh des immanuel", "year": "2000", "id": "handschuh-immanuel", "instrumentation": "Hörtheater - fl, klar, horn, trb, 2 perc, org(positiv), sopr, bass, 2vl, 2vla, vcl, 2cb - 64'", "dedication": "", "description": ""},
-    {"title": "der weg des prinzen II. martian pingus", "year": "2000", "id": "weg-prinz-ii", "instrumentation": "fl, sax (or bcl), female voice, 2perc, vla, bandoneon or vc - ca. 18'", "dedication": "", "description": ""},
-    {"title": "die drei felder im schnee und die scharlachrote sonne", "year": "2000", "id": "drei-felder-schnee", "instrumentation": "fl, perc, 9'", "dedication": "", "description": ""},
-    {"title": "die heilige clara und der schwarze fisch", "year": "2000", "id": "heilige-clara", "instrumentation": "für ensemble und klavier - (fl, clar, sax, hr, perc, vl, vla, vcl, db, pno) - 20'", "dedication": "", "description": ""},
-    {"title": "der weg des prinzen II", "year": "1999/2000", "id": "weg-prinz-ii-2", "instrumentation": "fl, sax (or clar), female voice, perc, musician, vla, bandoneon (or vcl) - 20'", "dedication": "", "description": "musician means that this part can be played by any musician"},
-    {"title": "offizium paperum", "year": "1999", "id": "offizium-paperum", "instrumentation": "24' - (12 musicians)", "dedication": "", "description": "musician means that this part can be played by any musicians"},
-    {"title": "die goldenen tiere", "year": "1999", "id": "goldenen-tiere", "instrumentation": "für Flöte, Horn, 2 Musiker, Violine und Viola - 15' (fl, hr, 2 musicians, vl, vla)", "dedication": "", "description": "musicians means that these parts can be played by any musician"},
-    {"title": "die kartoffeln der königin", "year": "1999", "id": "kartoffeln-koenigin", "instrumentation": "9' (clar, trb, vcl, kb or pno)", "dedication": "", "description": ""},
-    {"title": "der tor, die königin und der silberne schuh", "year": "1999", "id": "tor-koenigin-silberner-schuh", "instrumentation": "für Flöte und Klavier - 15' (fl, pno)", "dedication": "", "description": ""},
-    {"title": "der herr der insel", "year": "1999", "id": "herr-der-insel", "instrumentation": "für Flöte solo - 9' (fl)", "dedication": "", "description": ""},
-    {"title": "CETVS CANDIDVS", "year": "1996", "id": "cetvs-candidvs", "instrumentation": "22' (fl, sax, clar, trb, 2 perc, vl, vla, vcl, db)", "dedication": "", "description": ""},
-    {"title": "der weg des prinzen I (Die sieben Boten)", "year": "1996", "id": "weg-prinz-i", "instrumentation": "(fl, sax (or clar), female voice, perc, musician, vla, bandoneon (or vcl)) - 19'", "dedication": "", "description": "musician means that this part can be played by any musician"},
-    {"title": "die vierzig trauben im garten des scharlachroten scheichs", "year": "1995/1996", "id": "vierzig-trauben", "instrumentation": "Trauermusik für Violine und Cembalo - 16' (vl, harpsichord)", "dedication": "", "description": ""},
-    {"title": "tausend kraniche", "year": "1995", "id": "tausend-kraniche", "instrumentation": "Trauermusik für großes Orchester mit obligatem Kielflügel - 30' (orch)", "dedication": "", "description": ""},
-    {"title": "the sea of despair", "year": "1995", "id": "sea-of-despair", "instrumentation": "Trauermusik für Streichquartett - 45' (2vl, vla, vcl)", "dedication": "", "description": ""},
-    {"title": "der atem", "year": "1995", "id": "der-atem", "instrumentation": "Trauermusik für Bläser und Schlagzeug - 29' (brass band)", "dedication": "", "description": ""},
-    {"title": "die evangelienharmonie des eusebius", "year": "1995", "id": "evangelienharmonie-eusebius", "instrumentation": "Trauermusik für Fagott solo (basson) - 10'", "dedication": "", "description": ""},
-    {"title": "der bruch der gefäße", "year": "1994/95", "id": "bruch-der-gefaesse", "instrumentation": "Trauermusik für 6 Spieler, (rec, vl, perc, kbklar, trb, kb) - 18'", "dedication": "", "description": ""},
-    {"title": "melrose abbey", "year": "1994/95", "id": "melrose-abbey", "instrumentation": "Trauermusik für Orgel - 24' (org)", "dedication": "", "description": ""}
+    {
+      "title": "für 4 E-Gitarren",
+      "year": "2021",
+      "id": "fur-4-e-gitarren",
+      "instrumentation": "E Gitarren"
+    },
+    {
+      "title": "für 1/6-tone-harmonium und ensemble",
+      "year": "2021",
+      "id": "fur-1-6-tone-harmonium",
+      "instrumentation": "Flute , clarinet , Saxophone , Trumpet in Bb , Trombone , Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Orchester",
+      "year": "2020/21",
+      "id": "fur-orchester-2020-21",
+      "instrumentation": "Trumpet, Trombone, Percussion, Guitar, Piano, Cello"
+    },
+    {
+      "title": "I.dreamland",
+      "year": "2020",
+      "id": "i-dreamland",
+      "instrumentation": "Flute, Accordion, Cello, Piano, Harmonium"
+    },
+    {
+      "title": "Kinderoper",
+      "year": "2020",
+      "id": "kinderoper",
+      "instrumentation": "keine Gesangstimmen Flute, Trombone, Percussion, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Orgel und großes Ensemble",
+      "year": "2018",
+      "id": "fur-orgel-grosses-ensemble",
+      "instrumentation": "die Instrumentation ist variabel"
+    },
+    {
+      "title": "für Blechbläserquintett und Harmonium",
+      "year": "2018",
+      "id": "blechblaserquintett-harmonium",
+      "instrumentation": "Trumpet, Horn, Trombone, Tuba, Harmonium"
+    },
+    {
+      "title": "Oper (Tutor)",
+      "year": "2018",
+      "id": "oper-tutor",
+      "instrumentation": "Der Hochzeiter Tiefer Bass, Der Fremde Sopran , Das Volk Vokalensemble , Der Hochzeiter Schauspieler, Der Fremde Schauspielerin, Flute, clarinet, Saxophone, Horn, Trumpet, Trombone, percussion , Piano, Accordion, Violin , Viola , Cello , Double bass, Tonbandzuspielung"
+    },
+    {
+      "title": "für Violine, Viola, Violoncello und Klavier",
+      "year": "2017",
+      "id": "vl-va-vc-klavier",
+      "instrumentation": "Violin, Viola, Cello, Piano"
+    },
+    {
+      "title": "für Saxophon, E-Gitarre, Schlagzeug und Klavier",
+      "year": "2017",
+      "id": "sax-e-git-schlag-klavier",
+      "instrumentation": "Saxophone, E Guitar, Percussion, Piano lange Version ca. , kurze Version ca."
+    },
+    {
+      "title": "Version 2 für 2 Klaviere, 2 Schlagzeuger und Harmonium",
+      "year": "2017",
+      "id": "2-klaviere-2-schlagzeug-harmonium",
+      "instrumentation": "Klaviere, Schlagzeuger, Harmonium, percussion Vibraphone, Glockenspiel, small Triangle, Timpani , percussion Campana , Crotales, small Triangle, Gran Cassa"
+    },
+    {
+      "title": "für Flöte, Horn, Posaune und Harmonium",
+      "year": "2016",
+      "id": "fl-horn-pos-harm",
+      "instrumentation": "Flute , Horn in F, Trombone , Harmonium oder Akkordeon , Perkussion , Violine, Viola, Violoncello"
+    },
+    {
+      "title": "Eine Klangraumkomposition mit partiellen Übermalungen von G.P. Palestrinas",
+      "year": "2015",
+      "id": "klangraum-palestrina",
+      "instrumentation": "Vokalensemble , Percussion"
+    },
+    {
+      "title": "für Flöte, Oboe, Klarinette, Horn, Trompete, Euphonium und Ensemble",
+      "year": "2015",
+      "id": "fl-ob-clar-hr-trp-euphonium",
+      "instrumentation": "Flute , Oboe , clarinet , Bassoon, Horn, Trumpet , Trombone, Euphonium, Piano, Harmonium, percussion , Violin, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für Zither und Streichquintett",
+      "year": "2015",
+      "id": "zither-streichquintett",
+      "instrumentation": "Zither, String quintet"
+    },
+    {
+      "title": "Magnificat für 2 Soprane, Chor und Ensemble",
+      "year": "2015",
+      "id": "magnificat-2-soprane-chor",
+      "instrumentation": "Chor Sopran , Alto, Tenor, Bass Flute , Clarinet in B, Trumpet in B, Posaunen percussion Harmonium"
+    },
+    {
+      "title": "für viola d'amore, harmonium und großes orchester",
+      "year": "2015",
+      "id": "viola-damore-harmonium-orchester",
+      "instrumentation": "fl, ob , Clarinet in Bb , Bassoon , Horn, Trumpet in Bb, Trombone, Tuba, Piano, Harp, Percussion, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "for large orchestra",
+      "year": "2014",
+      "id": "large-orchestra-2014",
+      "instrumentation": "fl, ob, Clarinet , Bassoon , Horn, Trumpet, Trombone, Tuba, Percussion, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "viola d'amore, harmonium",
+      "year": "2014",
+      "id": "viola-damore-harmonium-2014",
+      "instrumentation": "Viola d'amore, Harmonium"
+    },
+    {
+      "title": "für Streichquartett und Klavier",
+      "year": "2014",
+      "id": "streichquartett-klavier",
+      "instrumentation": "String quartet, Piano"
+    },
+    {
+      "title": "für Flöte, Percussion, Keys, Viola und Chor",
+      "year": "2014",
+      "id": "fl-perc-keys-va-chor",
+      "instrumentation": "Flute, percussion, keys, Viola, Chor"
+    },
+    {
+      "title": "Solo1 – Sopran, Solo2 – Bass, Vokalensemble",
+      "year": "2013",
+      "id": "sopran-bass-vokalensemble",
+      "instrumentation": "Solo Sopran, Solo Bass, Vokalensemble , BFl, Bariton Oboe , B clarinet, Trumpet, Flugelhorn, Trombone, Tuba, percussion , Piano, Harmonium"
+    },
+    {
+      "title": "für Saxophon, Klarinette und Streicher",
+      "year": "2013",
+      "id": "sax-clar-strings",
+      "instrumentation": "Soprano, Clarinet , Violin, Viola, Cello, Double bass, Piano, Harmonium"
+    },
+    {
+      "title": "für 3 Orchestergruppen",
+      "year": "1",
+      "id": "3-orchestergruppen",
+      "instrumentation": "Gruppe links Flute, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Violin, Viola, Cello, Double bass, Percussion, Harp Gruppe Mitte Flute , Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Violin, Viola, Cello, Double bass, Percussion, Harp Gruppe rechts Flute , Oboe, Clarinet , Bassoon, Horn, Trumpet, Trombone, Violin, Viola, Cello, Double bass, Percussion, Piano"
+    },
+    {
+      "title": "für großes Orchester",
+      "year": "2011",
+      "id": "grosses-orchester-2011",
+      "instrumentation": "Das Orchester sitzt in drei Gruppen geteilt auf der Bühne Rechts. Mitte. Links. Flute , Oboe, Clarinet , Bassoon , Horn, Trumpet, Trombone, Schlagzeuger, Harp, Piano, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "the whitebearded man. the six frogs",
+      "year": "2008",
+      "id": "whitebearded-man-six-frogs",
+      "instrumentation": "Piano, percussion"
+    },
+    {
+      "title": "der weißbärtige mann. der frosch am mond",
+      "year": "2008",
+      "id": "weissbartiger-mann-frosch-mond",
+      "instrumentation": "accord OR hammondorg"
+    },
+    {
+      "title": "die drei dirndln",
+      "year": "2007",
+      "id": "drei-dirndln",
+      "instrumentation": ""
+    },
+    {
+      "title": "die drei goldenen schatten",
+      "year": "2007",
+      "id": "drei-goldenen-schatten",
+      "instrumentation": "Flute, clarinet, Percussion, hrp, Guitar, Piano, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "drei goldene tiger",
+      "year": "2007",
+      "id": "drei-goldene-tiger",
+      "instrumentation": ""
+    },
+    {
+      "title": "drei goldene gesichter",
+      "year": "2007",
+      "id": "drei-goldene-gesichter",
+      "instrumentation": ""
+    },
+    {
+      "title": "geschrieben in wasser",
+      "year": "2007",
+      "id": "geschrieben-in-wasser",
+      "instrumentation": ""
+    },
+    {
+      "title": "dangerous foxes are illusions",
+      "year": "2006",
+      "id": "dangerous-foxes",
+      "instrumentation": "OR"
+    },
+    {
+      "title": "the moon in a moonless sky",
+      "year": "2005",
+      "id": "moon-moonless-sky",
+      "instrumentation": "percussion"
+    },
+    {
+      "title": "die englischen hände. zwei",
+      "year": "2004",
+      "id": "englischen-hande-zwei",
+      "instrumentation": "piccolo, Saxophone, clarinet, Horn, Trombone, Percussion, Piano, Soprano, Violin, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "die englischen hände",
+      "year": "2004",
+      "id": "englischen-hande",
+      "instrumentation": "piccolo, Saxophone, clarinet, Horn, Trumpet, Trombone, Percussion, Piano, Violin, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "sei jaku",
+      "year": "2001",
+      "id": "sei-jaku",
+      "instrumentation": "String quartet Violin, Viola, Cello"
+    },
+    {
+      "title": "the queen. the cowboy",
+      "year": "2001",
+      "id": "queen-cowboy",
+      "instrumentation": "für Violoncello solo und Kammerorchester, Cello solo, Violin a, b, c; fl, clarinet, Bass Clarinet, Bassoon, Horn, Trombone, Percussion, Violin , Viola , Cello , Double bass"
+    },
+    {
+      "title": "der weiße pfirsich und der lallende Quell",
+      "year": "2001",
+      "id": "weisser-pfirsich",
+      "instrumentation": "für ensemble Organ, percussion, Viola, Cello, Double bass)"
+    },
+    {
+      "title": "kirschblüten. ohr",
+      "year": "2001",
+      "id": "kirschbluten-ohr",
+      "instrumentation": "Musiktheater für Schlagzeuger Percussion, ca."
+    },
+    {
+      "title": "der handschuh des immanuel",
+      "year": "2000",
+      "id": "handschuh-immanuel",
+      "instrumentation": "Hörtheater Flute, Clarinet, Horn, Trombone, percussion, Organ, Soprano, Bass, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "der weg des prinzen II. martian pingus",
+      "year": "2000",
+      "id": "weg-prinz-ii",
+      "instrumentation": "Flute, Saxophone , female voice, Percussion, Viola, Bandoneon or Cello ca."
+    },
+    {
+      "title": "die drei felder im schnee und die scharlachrote sonne",
+      "year": "2000",
+      "id": "drei-felder-schnee",
+      "instrumentation": "Flute, percussion"
+    },
+    {
+      "title": "die heilige clara und der schwarze fisch",
+      "year": "2000",
+      "id": "heilige-clara",
+      "instrumentation": "für ensemble und Piano"
+    },
+    {
+      "title": "der weg des prinzen II",
+      "year": "1999/2000",
+      "id": "weg-prinz-ii-2",
+      "instrumentation": "Flute, Saxophone , female voice, percussion, musician, Viola, Bandoneon"
+    },
+    {
+      "title": "offizium paperum",
+      "year": "1999",
+      "id": "offizium-paperum",
+      "instrumentation": ""
+    },
+    {
+      "title": "die goldenen tiere",
+      "year": "1999",
+      "id": "goldenen-tiere",
+      "instrumentation": "für Flute, Horn, Musiker, Violine und Viola"
+    },
+    {
+      "title": "die kartoffeln der königin",
+      "year": "1999",
+      "id": "kartoffeln-koenigin",
+      "instrumentation": ""
+    },
+    {
+      "title": "der tor, die königin und der silberne schuh",
+      "year": "1999",
+      "id": "tor-koenigin-silberner-schuh",
+      "instrumentation": "für Flute und Piano"
+    },
+    {
+      "title": "der herr der insel",
+      "year": "1999",
+      "id": "herr-der-insel",
+      "instrumentation": "für Flute solo"
+    },
+    {
+      "title": "CETVS CANDIDVS",
+      "year": "1996",
+      "id": "cetvs-candidvs",
+      "instrumentation": ""
+    },
+    {
+      "title": "der weg des prinzen I (Die sieben Boten)",
+      "year": "1996",
+      "id": "weg-prinz-i",
+      "instrumentation": "female voice, percussion, musician, Viola, Bandoneon )"
+    },
+    {
+      "title": "die vierzig trauben im garten des scharlachroten scheichs",
+      "year": "1995/1996",
+      "id": "vierzig-trauben",
+      "instrumentation": "Trauermusik für Violine und Harpsichord"
+    },
+    {
+      "title": "tausend kraniche",
+      "year": "1995",
+      "id": "tausend-kraniche",
+      "instrumentation": "Trauermusik für grosses Orchester mit obligatem Kielflügel"
+    },
+    {
+      "title": "the sea of despair",
+      "year": "1995",
+      "id": "sea-of-despair",
+      "instrumentation": "Trauermusik für String quartet"
+    },
+    {
+      "title": "der atem",
+      "year": "1995",
+      "id": "der-atem",
+      "instrumentation": "Trauermusik für Bläser und Percussion"
+    },
+    {
+      "title": "die evangelienharmonie des eusebius",
+      "year": "1995",
+      "id": "evangelienharmonie-eusebius",
+      "instrumentation": "Trauermusik für Bassoon solo"
+    },
+    {
+      "title": "der bruch der gefäße",
+      "year": "1994/95",
+      "id": "bruch-der-gefaesse",
+      "instrumentation": "Trauermusik für Spieler"
+    },
+    {
+      "title": "melrose abbey",
+      "year": "1994/95",
+      "id": "melrose-abbey",
+      "instrumentation": "Trauermusik für Organ"
+    }
   ],
   "solo-duo": [
-    {"title": "interludium I. org", "year": "2021", "id": "interludium-i-org", "instrumentation": "Orgel", "dedication": "", "description": "5'"},
-    {"title": "interludium II. org", "year": "2021", "id": "interludium-ii-org", "instrumentation": "Orgel", "dedication": "", "description": "5'"},
-    {"title": "fl, org", "year": "2020", "id": "fl-org-2020", "instrumentation": "fl, org", "dedication": "", "description": "4'"},
-    {"title": "vl, harpsichord", "year": "2020", "id": "vl-harpsichord-2020", "instrumentation": "vl, harpsichord", "dedication": "", "description": "10'"},
-    {"title": "2perc, harm, vc, db", "year": "2020", "id": "2perc-harm-vc-db", "instrumentation": "2perc, harm, vc, db", "dedication": "", "description": "16'"},
-    {"title": "renaissance-traverso-quartett", "year": "2020", "id": "renaissance-traverso-quartett", "instrumentation": "Renaissance-Traverso-Quartett", "dedication": "", "description": "14'"},
-    {"title": "sax-quartett, harmonium", "year": "2020", "id": "sax-quartett-harmonium", "instrumentation": "Sax-Quartett, Harmonium", "dedication": "", "description": "45'"},
-    {"title": "Orgel solo", "year": "2020", "id": "orgel-solo-2020", "instrumentation": "Orgel solo", "dedication": "", "description": "21'"},
-    {"title": "fl, clar, sax, 2hr, 2trb, accordion, harmonium/piano, perc", "year": "2019", "id": "fl-clar-sax-hr-trb-accordion", "instrumentation": "fl, clar1, clar2 (in Bb, bass), sax (tenor), 2hr, 2trb, accordion, harmonium /pno, perc1: marimba (bass), campana, crotales, tamtam (medium), gran cassa, perc2: vibraphone (motor off), tamtam (large), gran cassa, 3vl, 2va, 2vc, db (H-E-A-d-g)", "dedication": "", "description": "30'"},
-    {"title": "für einen Schlagzeuger", "year": "2019", "id": "fur-einen-schlagzeuger", "instrumentation": "1 Schlagzeuger", "dedication": "", "description": "14'"},
-    {"title": "für Chor (SATB) und 1 Flöte", "year": "2019", "id": "chor-satb-flote", "instrumentation": "Chor (SATB), 1 Flöte", "dedication": "", "description": "12'"},
-    {"title": "2trp, hr, pos, tb", "year": "2019", "id": "2trp-hr-pos-tb", "instrumentation": "2trp, hr, pos, tb", "dedication": "", "description": "20'"},
-    {"title": "sop, lute (or guit) pno, vl (or vc)", "year": "2019", "id": "sop-lute-pno-vl", "instrumentation": "sop, lute (or guit) pno, vl (or vc)", "dedication": "", "description": "14'"},
-    {"title": "Oboe, Perc, Klavier", "year": "2019", "id": "ob-perc-klavier", "instrumentation": "Oboe, Perc, Klavier", "dedication": "", "description": "18'"},
-    {"title": "2clar, harm, vl", "year": "2019", "id": "2clar-harm-vl", "instrumentation": "2clar, harm, vl", "dedication": "", "description": "11'"},
-    {"title": "melodic instrument, org", "year": "2019", "id": "melodic-instrument-org", "instrumentation": "melodic instrument, org", "dedication": "", "description": "13'"},
-    {"title": "für 4 Stimmen (SATB)", "year": "2019", "id": "fur-4-stimmen-satb", "instrumentation": "4 Stimmen (SATB)", "dedication": "", "description": "12'"},
-    {"title": "für Klavier", "year": "2018", "id": "fur-klavier-2018", "instrumentation": "Klavier solo", "dedication": "", "description": "4'"},
-    {"title": "fl, clar, vl, va, vc, db, glissando flute", "year": "2017", "id": "fl-clar-strings-glissando", "instrumentation": "fl, clar, vl, va, vc, db, glissando flute", "dedication": "", "description": "15'"},
-    {"title": "für Männerstimmen a cappella", "year": "2017", "id": "mannerstimmen-a-cappella", "instrumentation": "Tenor, Bass1, Bass2 (chorisch) - lange Version: 17', kurze Version: 7'", "dedication": "", "description": ""},
-    {"title": "für Klavier solo", "year": "2015", "id": "fur-klavier-solo-2015", "instrumentation": "Klavier solo", "dedication": "", "description": "11'"},
-    {"title": "sop, harm (org) vl, va, vc", "year": "2015", "id": "sop-harm-vl-va-vc", "instrumentation": "sop, harm (org) vl, va, vc", "dedication": "", "description": "15'+15'+15'"},
-    {"title": "für Harmonium", "year": "2012", "id": "fur-harmonium-2012", "instrumentation": "Harmonium solo", "dedication": "", "description": "50'"},
-    {"title": "für Orgel solo", "year": "2012", "id": "fur-orgel-solo-2012", "instrumentation": "Orgel solo", "dedication": "", "description": "25'"},
-    {"title": "für Gitarre", "year": "2011", "id": "fur-gitarre-2011", "instrumentation": "Gitarre solo", "dedication": "", "description": "47'"},
-    {"title": "für Orgel", "year": "2011", "id": "fur-orgel-2011", "instrumentation": "Orgel solo", "dedication": "", "description": "10'"},
-    {"title": "weiße äpfel", "year": "2011", "id": "weisse-aepfel", "instrumentation": "violine, viola, violoncello", "dedication": "", "description": ""},
-    {"title": "vom mond", "year": "2006", "id": "vom-mond", "instrumentation": "short chamber opera - astronaut - alto, man on the moon - soprano, postman - tenor, cook - bass - fl picc, clarinette in B, bas, horn in F, harp, perc, viola, violoncello, contrabass", "dedication": "", "description": ""},
-    {"title": "sais", "year": "2006", "id": "sais", "instrumentation": "fl, perc, pno - 54'", "dedication": "", "description": ""},
-    {"title": "das sechste element", "year": "2007", "id": "sechste-element", "instrumentation": "fl, 2 perc - 10'", "dedication": "", "description": ""},
-    {"title": "in flocken: schütter", "year": "2006", "id": "in-flocken-schutter", "instrumentation": "for femalechoir (3 part) - 3'", "dedication": "", "description": ""},
-    {"title": "vollkommenheit ohne nasenlöcher", "year": "2008", "id": "vollkommenheit-nasenloecher", "instrumentation": "choir 5'", "dedication": "", "description": ""},
-    {"title": "shirohige no roujin. roppiki no kaeru", "year": "2008", "id": "shirohige", "instrumentation": "accordion solo 10'", "dedication": "", "description": ""},
-    {"title": "sternenmäuse", "year": "2008", "id": "sternenmaeuse", "instrumentation": "vl, klav (for children) 3'", "dedication": "", "description": ""},
-    {"title": "the moon in a moonless sky. (two.)", "year": "2007", "id": "moon-moonless-sky-two", "instrumentation": "4 perc - 40'", "dedication": "", "description": ""},
-    {"title": "ägäische eisberge", "year": "2006", "id": "agaeische-eisberge", "instrumentation": "(vla solo) 10'", "dedication": "", "description": ""},
-    {"title": "marias mantel", "year": "2005", "id": "marias-mantel", "instrumentation": "org, 12'", "dedication": "", "description": ""},
-    {"title": "die kleinen brüder", "year": "2005", "id": "kleinen-brueder", "instrumentation": "fl, vcl, 1'", "dedication": "", "description": ""},
-    {"title": "die ränder der welt", "year": "2005", "id": "raender-welt", "instrumentation": "vl, 9'", "dedication": "", "description": ""},
-    {"title": "toccata per I'elevatione", "year": "2005", "id": "toccata-elevatione", "instrumentation": "2 trb, sopr, vla, vcl, cb, 6'", "dedication": "", "description": ""},
-    {"title": "bonsai", "year": "2004", "id": "bonsai", "instrumentation": "für Viola und Klavier - vla, pno, 1'", "dedication": "", "description": ""},
-    {"title": "klare himmel", "year": "2004", "id": "klare-himmel", "instrumentation": "für Cembalo - harpsichord, 6'", "dedication": "", "description": ""},
-    {"title": "why. flowers", "year": "2004", "id": "why-flowers", "instrumentation": "perc, sopr, acc, string instrument(s) 8'", "dedication": "", "description": ""},
-    {"title": "kresse. kreise", "year": "2003", "id": "kresse-kreise", "instrumentation": "für Violine solo - vl, 8'", "dedication": "", "description": ""},
-    {"title": "zwillingsgipfel", "year": "2003", "id": "zwillingsgipfel", "instrumentation": "für Flöte und Klavier - fl, pno, 9'", "dedication": "", "description": ""},
-    {"title": "berge. träume", "year": "2003", "id": "berge-traeume", "instrumentation": "für Violoncello und Chor, ca. 16' - vc, choir (2sopr, 2alto, 2ten, 2bass)", "dedication": "", "description": "Hamburger Version für Laienchor"},
-    {"title": "small life. transition", "year": "2003", "id": "small-life-transition", "instrumentation": "für 2 Klaviere - 2pnos, 7'", "dedication": "", "description": ""},
-    {"title": "nach den sternen. salz", "year": "2003", "id": "nach-sternen-salz", "instrumentation": "vl + pno - 12'", "dedication": "", "description": ""},
-    {"title": "die drei spiegel der schönen Karin", "year": "1998", "id": "drei-spiegel-karin", "instrumentation": "für Kontrabaß solo - 13' (db)", "dedication": "", "description": ""},
-    {"title": "die illusionären planeten im nervensystem der Barbe", "year": "1998", "id": "illusionaren-planeten", "instrumentation": "für sieben tiefe Männerstimmen - 17' (7 male voices)", "dedication": "", "description": ""},
-    {"title": "der bindfaden der gottheit und weiße augen im frühling", "year": "1998", "id": "bindfaden-gottheit", "instrumentation": "für drei gar klein Flötlein - 50' (3rec)", "dedication": "", "description": ""},
-    {"title": "der schlafende landmann, der baum des lebens und die schalen der finsternis", "year": "1998", "id": "schlafende-landmann", "instrumentation": "für Klavier solo - 16' (pno)", "dedication": "", "description": ""},
-    {"title": "die tage des fastens und die tage der doppelten vollkommenheit", "year": "1998", "id": "tage-des-fastens", "instrumentation": "für Frauenstimme und Klavier oder andere Instrumente - 1' (female voice, pno (or other instruments))", "dedication": "", "description": ""},
-    {"title": "iku/lux cucumberis", "year": "1998", "id": "iku-lux-cucumberis", "instrumentation": "für 16 Stimmen - 16' (4s, 4a, 4t, 4b)", "dedication": "", "description": ""},
-    {"title": "die vier wege zum berge zion", "year": "1997/98", "id": "vier-wege-zion-i", "instrumentation": "für Violoncello (vcl) - III: music is the key - 10'", "dedication": "", "description": ""},
-    {"title": "die vier wege zum berge zion", "year": "1997/98", "id": "vier-wege-zion-ii", "instrumentation": "für Violoncello (vcl) - II - 10'", "dedication": "", "description": ""},
-    {"title": "die klause der heiligen christine", "year": "1997/98", "id": "klause-christine", "instrumentation": "für Violoncello - 12'", "dedication": "", "description": ""},
-    {"title": "das kaum wahrnehmbare lächeln dostojewskis", "year": "1997/98", "id": "laecheln-dostojewskis", "instrumentation": "für Frauenstimme und Orgel(positiv) - 13' (female voice, org(positiv))", "dedication": "", "description": ""},
-    {"title": "die ewigkeit ist eine badehütte mit moosbewachsenem schindeldach", "year": "1997/98", "id": "ewigkeit-badehutte", "instrumentation": "für Ensemble und Orgel - 17' (2 fl, 2 clar, sax, trb, 3 vl, 3 vla, 3 vcl, db)", "dedication": "", "description": ""},
-    {"title": "einübung in den kastanienbaum", "year": "1997", "id": "einubung-kastanienbaum", "instrumentation": "für vier Flöten - 10' (4fl)", "dedication": "", "description": ""},
-    {"title": "die mutter gottes mit den drei händen", "year": "1997", "id": "mutter-gottes-drei-haende", "instrumentation": "für Sopranblockflöten - 30' (min.48 sopranorecorders)", "dedication": "", "description": ""},
-    {"title": "c. meinte der rock wäre aus blau gefärbter von den hebriden", "year": "1997", "id": "c-meinte-rock", "instrumentation": "stammender Schafwolle gemacht für Chor - 15' (10s, 9a, 8t, 8b)", "dedication": "", "description": ""},
-    {"title": "die größte tragik im leben des königs von sipylos", "year": "1997", "id": "grosse-tragik", "instrumentation": "für Flöte, Klavier und Electronic - 39' (fl, pno, electr)", "dedication": "", "description": ""},
-    {"title": "die wimpern des himbeerfarbenen mondes/marienau", "year": "1996/97", "id": "wimpern-mond", "instrumentation": "Trauermusik für Vokalensemble - 13' (3 - 12 voices)", "dedication": "", "description": ""},
-    {"title": "das geheimnis der unsterblichkeit liegt in den kernen des granatapfels", "year": "1996/97", "id": "geheimnis-unsterblichkeit", "instrumentation": "Trauermusik für Chor, Frauenstimme, Sopraninoblockflöte, Klarinette und zwei Kontrabässe - 16' (female voice, choir, rec, clar, 2db)", "dedication": "", "description": ""},
-    {"title": "the forest of frost", "year": "1996/97", "id": "forest-of-frost", "instrumentation": "Trauermusik für Flöte, Frauenstimme, Akkordeon (Orgelpositiv oder Violoncello) und Schlagzeug - 27' (fl, female voice, accord (org(positiv) or vcl), perc)", "dedication": "", "description": ""},
-    {"title": "zographou/im schatten des blauen feigenbaumes", "year": "1996", "id": "zographou", "instrumentation": "Kleine Trauermusik für eine kleine Flöte - 10' (fl)", "dedication": "", "description": ""},
-    {"title": "cartusia", "year": "1995", "id": "cartusia", "instrumentation": "Trauermusik für Violine solo - 10' (vl)", "dedication": "", "description": ""},
-    {"title": "abd", "year": "1995", "id": "abd", "instrumentation": "Tryptichon für Orgel - 19' (org)", "dedication": "", "description": ""},
-    {"title": "die fenster des universums", "year": "1999", "id": "fenster-universums", "instrumentation": "(vl, vcl, pno) - 6'", "dedication": "", "description": ""},
-    {"title": "der fette hirte und das weiße kaninchen", "year": "2001", "id": "fette-hirte-weisses-kaninchen", "instrumentation": "für zwei flöten und zwei schlagzeuge - 10' (2 fl, 2 perc)", "dedication": "", "description": ""}
+    {
+      "title": "interludium I. org",
+      "year": "2021",
+      "id": "interludium-i-org",
+      "instrumentation": "Organ"
+    },
+    {
+      "title": "interludium II. org",
+      "year": "2021",
+      "id": "interludium-ii-org",
+      "instrumentation": "Organ"
+    },
+    {
+      "title": "fl, org",
+      "year": "2020",
+      "id": "fl-org-2020",
+      "instrumentation": "Flute, Organ"
+    },
+    {
+      "title": "vl, harpsichord",
+      "year": "2020",
+      "id": "vl-harpsichord-2020",
+      "instrumentation": "Violin, Harpsichord"
+    },
+    {
+      "title": "2perc, harm, vc, db",
+      "year": "2020",
+      "id": "2perc-harm-vc-db",
+      "instrumentation": "Percussion, Harmonium, Cello, Double bass"
+    },
+    {
+      "title": "renaissance-traverso-quartett",
+      "year": "2020",
+      "id": "renaissance-traverso-quartett",
+      "instrumentation": "Renaissance Traverso Quartett"
+    },
+    {
+      "title": "sax-quartett, harmonium",
+      "year": "2020",
+      "id": "sax-quartett-harmonium",
+      "instrumentation": "Saxophone Quartett, Harmonium"
+    },
+    {
+      "title": "Orgel solo",
+      "year": "2020",
+      "id": "orgel-solo-2020",
+      "instrumentation": "Organ solo"
+    },
+    {
+      "title": "fl, clar, sax, 2hr, 2trb, accordion, harmonium/piano, perc",
+      "year": "2019",
+      "id": "fl-clar-sax-hr-trb-accordion",
+      "instrumentation": "Flute, Clarinet, Clarinet , Saxophone , Horn, Trombone, Accordion, Harmonium /Piano, Percussion Marimba , Campana, Crotales, Tam-tam , Gran Cassa, Percussion Vibraphone , Tam-tam , Gran Cassa, Violin, Viola, Cello, Double bass"
+    },
+    {
+      "title": "für einen Schlagzeuger",
+      "year": "2019",
+      "id": "fur-einen-schlagzeuger",
+      "instrumentation": "Schlagzeuger"
+    },
+    {
+      "title": "für Chor (SATB) und 1 Flöte",
+      "year": "2019",
+      "id": "chor-satb-flote",
+      "instrumentation": "Chor , Flute"
+    },
+    {
+      "title": "2trp, hr, pos, tb",
+      "year": "2019",
+      "id": "2trp-hr-pos-tb",
+      "instrumentation": "Trumpet, Horn, Trombone, Tuba"
+    },
+    {
+      "title": "sop, lute (or guit) pno, vl (or vc)",
+      "year": "2019",
+      "id": "sop-lute-pno-vl",
+      "instrumentation": "Soprano, lute Piano, Violin"
+    },
+    {
+      "title": "Oboe, Perc, Klavier",
+      "year": "2019",
+      "id": "ob-perc-klavier",
+      "instrumentation": "Oboe, percussion, Piano"
+    },
+    {
+      "title": "2clar, harm, vl",
+      "year": "2019",
+      "id": "2clar-harm-vl",
+      "instrumentation": "Clarinet, Harmonium, Violin"
+    },
+    {
+      "title": "melodic instrument, org",
+      "year": "2019",
+      "id": "melodic-instrument-org",
+      "instrumentation": "melodic instrument, Organ"
+    },
+    {
+      "title": "für 4 Stimmen (SATB)",
+      "year": "2019",
+      "id": "fur-4-stimmen-satb",
+      "instrumentation": "Stimmen"
+    },
+    {
+      "title": "für Klavier",
+      "year": "2018",
+      "id": "fur-klavier-2018",
+      "instrumentation": "Piano solo"
+    },
+    {
+      "title": "fl, clar, vl, va, vc, db, glissando flute",
+      "year": "2017",
+      "id": "fl-clar-strings-glissando",
+      "instrumentation": "Flute, clarinet, Violin, Viola, Cello, Double bass, glissando Flute"
+    },
+    {
+      "title": "für Männerstimmen a cappella",
+      "year": "2017",
+      "id": "mannerstimmen-a-cappella",
+      "instrumentation": "Tenor, Bass, Bass lange Version , kurze Version"
+    },
+    {
+      "title": "für Klavier solo",
+      "year": "2015",
+      "id": "fur-klavier-solo-2015",
+      "instrumentation": "Piano solo"
+    },
+    {
+      "title": "sop, harm (org) vl, va, vc",
+      "year": "2015",
+      "id": "sop-harm-vl-va-vc",
+      "instrumentation": "Soprano, Harmonium Violin, Viola, Cello"
+    },
+    {
+      "title": "für Harmonium",
+      "year": "2012",
+      "id": "fur-harmonium-2012",
+      "instrumentation": "Harmonium solo"
+    },
+    {
+      "title": "für Orgel solo",
+      "year": "2012",
+      "id": "fur-orgel-solo-2012",
+      "instrumentation": "Organ solo"
+    },
+    {
+      "title": "für Gitarre",
+      "year": "2011",
+      "id": "fur-gitarre-2011",
+      "instrumentation": "Gitarre solo"
+    },
+    {
+      "title": "für Orgel",
+      "year": "2011",
+      "id": "fur-orgel-2011",
+      "instrumentation": "Organ solo"
+    },
+    {
+      "title": "weiße äpfel",
+      "year": "2011",
+      "id": "weisse-aepfel",
+      "instrumentation": "violine, Viola, violoncello"
+    },
+    {
+      "title": "vom mond",
+      "year": "2006",
+      "id": "vom-mond",
+      "instrumentation": "short chamber opera astronaut alto, man on the moon Soprano, postman Tenor, cook Bass Flute piccolo, clarinette in B, Bassoon, Horn in F, Harp, percussion, Viola, violoncello, contrabass"
+    },
+    {
+      "title": "sais",
+      "year": "2006",
+      "id": "sais",
+      "instrumentation": "Flute, percussion, Piano"
+    },
+    {
+      "title": "das sechste element",
+      "year": "2007",
+      "id": "sechste-element",
+      "instrumentation": "Flute, percussion"
+    },
+    {
+      "title": "in flocken: schütter",
+      "year": "2006",
+      "id": "in-flocken-schutter",
+      "instrumentation": "for femalechoir"
+    },
+    {
+      "title": "vollkommenheit ohne nasenlöcher",
+      "year": "2008",
+      "id": "vollkommenheit-nasenloecher",
+      "instrumentation": "Choir"
+    },
+    {
+      "title": "shirohige no roujin. roppiki no kaeru",
+      "year": "2008",
+      "id": "shirohige",
+      "instrumentation": "Accordion solo"
+    },
+    {
+      "title": "sternenmäuse",
+      "year": "2008",
+      "id": "sternenmaeuse",
+      "instrumentation": "Violin, Piano"
+    },
+    {
+      "title": "the moon in a moonless sky. (two.)",
+      "year": "2007",
+      "id": "moon-moonless-sky-two",
+      "instrumentation": "percussion"
+    },
+    {
+      "title": "ägäische eisberge",
+      "year": "2006",
+      "id": "agaeische-eisberge",
+      "instrumentation": ""
+    },
+    {
+      "title": "marias mantel",
+      "year": "2005",
+      "id": "marias-mantel",
+      "instrumentation": "Organ"
+    },
+    {
+      "title": "die kleinen brüder",
+      "year": "2005",
+      "id": "kleinen-brueder",
+      "instrumentation": "Flute, Cello"
+    },
+    {
+      "title": "die ränder der welt",
+      "year": "2005",
+      "id": "raender-welt",
+      "instrumentation": "Violin"
+    },
+    {
+      "title": "toccata per I'elevatione",
+      "year": "2005",
+      "id": "toccata-elevatione",
+      "instrumentation": "Trombone, Soprano, Viola, Cello, Double bass"
+    },
+    {
+      "title": "bonsai",
+      "year": "2004",
+      "id": "bonsai",
+      "instrumentation": "für Viola und Piano Viola, Piano"
+    },
+    {
+      "title": "klare himmel",
+      "year": "2004",
+      "id": "klare-himmel",
+      "instrumentation": "für Harpsichord Harpsichord"
+    },
+    {
+      "title": "why. flowers",
+      "year": "2004",
+      "id": "why-flowers",
+      "instrumentation": "percussion, Soprano, Accordion, string instrument"
+    },
+    {
+      "title": "kresse. kreise",
+      "year": "2003",
+      "id": "kresse-kreise",
+      "instrumentation": "für Violine solo Violin"
+    },
+    {
+      "title": "zwillingsgipfel",
+      "year": "2003",
+      "id": "zwillingsgipfel",
+      "instrumentation": "für Flute und Piano Flute, Piano"
+    },
+    {
+      "title": "berge. träume",
+      "year": "2003",
+      "id": "berge-traeume",
+      "instrumentation": "für Violoncello und Chor, ca. Cello, Choir"
+    },
+    {
+      "title": "small life. transition",
+      "year": "2003",
+      "id": "small-life-transition",
+      "instrumentation": "für Klaviere pnos"
+    },
+    {
+      "title": "nach den sternen. salz",
+      "year": "2003",
+      "id": "nach-sternen-salz",
+      "instrumentation": "Violin Piano"
+    },
+    {
+      "title": "die drei spiegel der schönen Karin",
+      "year": "1998",
+      "id": "drei-spiegel-karin",
+      "instrumentation": "für Kontrabass solo"
+    },
+    {
+      "title": "die illusionären planeten im nervensystem der Barbe",
+      "year": "1998",
+      "id": "illusionaren-planeten",
+      "instrumentation": "für sieben tiefe Männerstimmen"
+    },
+    {
+      "title": "der bindfaden der gottheit und weiße augen im frühling",
+      "year": "1998",
+      "id": "bindfaden-gottheit",
+      "instrumentation": "für drei gar klein Fluteötlein"
+    },
+    {
+      "title": "der schlafende landmann, der baum des lebens und die schalen der finsternis",
+      "year": "1998",
+      "id": "schlafende-landmann",
+      "instrumentation": "für Piano solo"
+    },
+    {
+      "title": "die tage des fastens und die tage der doppelten vollkommenheit",
+      "year": "1998",
+      "id": "tage-des-fastens",
+      "instrumentation": "für Frauenstimme und Piano oder andere Instrumente )"
+    },
+    {
+      "title": "iku/lux cucumberis",
+      "year": "1998",
+      "id": "iku-lux-cucumberis",
+      "instrumentation": "für Stimmen"
+    },
+    {
+      "title": "die vier wege zum berge zion",
+      "year": "1997/98",
+      "id": "vier-wege-zion-i",
+      "instrumentation": "für Violoncello III music is the key"
+    },
+    {
+      "title": "die vier wege zum berge zion",
+      "year": "1997/98",
+      "id": "vier-wege-zion-ii",
+      "instrumentation": "für Violoncello II"
+    },
+    {
+      "title": "die klause der heiligen christine",
+      "year": "1997/98",
+      "id": "klause-christine",
+      "instrumentation": "für Violoncello"
+    },
+    {
+      "title": "das kaum wahrnehmbare lächeln dostojewskis",
+      "year": "1997/98",
+      "id": "laecheln-dostojewskis",
+      "instrumentation": "für Frauenstimme und Organ )"
+    },
+    {
+      "title": "die ewigkeit ist eine badehütte mit moosbewachsenem schindeldach",
+      "year": "1997/98",
+      "id": "ewigkeit-badehutte",
+      "instrumentation": "für Ensemble und Organ"
+    },
+    {
+      "title": "einübung in den kastanienbaum",
+      "year": "1997",
+      "id": "einubung-kastanienbaum",
+      "instrumentation": "für vier Fluteöten"
+    },
+    {
+      "title": "die mutter gottes mit den drei händen",
+      "year": "1997",
+      "id": "mutter-gottes-drei-haende",
+      "instrumentation": "für Sopranblockflöten"
+    },
+    {
+      "title": "c. meinte der rock wäre aus blau gefärbter von den hebriden",
+      "year": "1997",
+      "id": "c-meinte-rock",
+      "instrumentation": "stammender Schafwolle gemacht für Chor"
+    },
+    {
+      "title": "die größte tragik im leben des königs von sipylos",
+      "year": "1997",
+      "id": "grosse-tragik",
+      "instrumentation": "für Flute, Piano und Electronic"
+    },
+    {
+      "title": "die wimpern des himbeerfarbenen mondes/marienau",
+      "year": "1996/97",
+      "id": "wimpern-mond",
+      "instrumentation": "Trauermusik für Vokalensemble"
+    },
+    {
+      "title": "das geheimnis der unsterblichkeit liegt in den kernen des granatapfels",
+      "year": "1996/97",
+      "id": "geheimnis-unsterblichkeit",
+      "instrumentation": "Trauermusik für Chor, Frauenstimme, Sopraninoblockflöte, Clarinet und zwei Kontrabässe"
+    },
+    {
+      "title": "the forest of frost",
+      "year": "1996/97",
+      "id": "forest-of-frost",
+      "instrumentation": "Trauermusik für Flute, Frauenstimme, Akkordeon und Percussion or Cello), percussion)"
+    },
+    {
+      "title": "zographou/im schatten des blauen feigenbaumes",
+      "year": "1996",
+      "id": "zographou",
+      "instrumentation": "Kleine Trauermusik für eine kleine Flute"
+    },
+    {
+      "title": "cartusia",
+      "year": "1995",
+      "id": "cartusia",
+      "instrumentation": "Trauermusik für Violine solo"
+    },
+    {
+      "title": "abd",
+      "year": "1995",
+      "id": "abd",
+      "instrumentation": "Tryptichon für Organ"
+    },
+    {
+      "title": "die fenster des universums",
+      "year": "1999",
+      "id": "fenster-universums",
+      "instrumentation": ""
+    },
+    {
+      "title": "der fette hirte und das weiße kaninchen",
+      "year": "2001",
+      "id": "fette-hirte-weisses-kaninchen",
+      "instrumentation": "für zwei flöten und zwei schlagzeuge"
+    }
   ],
   "series": [],
   "collaborations": []
